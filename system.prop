@@ -167,8 +167,6 @@ persist.vendor.btstack.enable.twsplus=false
 #xuejie.wen@Connectivity, 2019/11/30, [INT-6139] Add for solve audio crash
 persist.vendor.bt.a2dp.hal.implementation=true
 
-persist.vendor.naruto.light.support=true
-
 persist.vendor.btstack.enable.lpa=true
 
 #rich.yu@MM.Audio, 2020/06/05, enable monitor Rotation

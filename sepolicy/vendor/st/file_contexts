@@ -1,1 +1,6 @@
+# Nfc devices
 /dev/pn553                                    u:object_r:nfc_device:s0
+/dev/p73                                      u:object_r:secure_element_device:s0
+
+# Hals
+/(vendor|system/vendor)/bin/hw/android\.hardware\.secure_element@1\.2-service                                    u:object_r:hal_secure_element_default_exec:s0
